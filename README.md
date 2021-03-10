@@ -1,6 +1,6 @@
 # Self-Supervised Learning in Medical Imaging
 
-> An incomplete list of self-supervised papers related to medical imaging. 
+> An incomplete list of self-supervised papers related to medical imaging, with a focus on analysis. 
 
 ### 2021 
 - [ ] [SMORE: A Self-Supervised Anti-Aliasing and Super-Resolution Algorithm for MRI Using Deep Learning](https://ieeexplore.ieee.org/document/9253710). TMI.

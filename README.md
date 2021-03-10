@@ -65,3 +65,23 @@
 ### 2017
 - [ ] [Self supervised deep representation learning for fine-grained body part recognition](https://ieeexplore.ieee.org/document/7950587). ISBI 2017. 
 
+> Resources on self-supervised learning in general.
+
+## Reviews papers
+- [ ] [Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162). 2019. 
+- [ ] [Self-supervised Learning: Generative or Contrastive](https://arxiv.org/abs/2006.08218). 2020.
+- [ ] [A Survey on Contrastive Self-supervised Learning](https://arxiv.org/abs/2011.00362). 2020. 
+- [ ] [A Survey on Semi-, Self- and Unsupervised Learning in Image Classiﬁcation](https://arxiv.org/abs/2002.08721). 2020. 
+
+## Paper Lists on GitHub
+- [ ] [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
+- [ ] [Awesome Contrastive Learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
+
+## Blogs
+- [ ] [Self-Supervised Representation Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html). Lil'Log. 2019. 
+- [ ] [Contrastive Self-Supervised Learning](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html). Ankesh Anand. 2020. 
+- [ ] [Self-Supervised Section from LeCun's Deep Learning Course at NYU](https://atcold.github.io/pytorch-Deep-Learning/en/week10/10-1/). 2020. 
+
+## Videos
+- [LeCun - Self-Supervised Learning](https://www.youtube.com/watch?v=SaJL4SLfrcY)
+- [Contrastive Learning: A General Self-supervised Learning Approach](https://www.youtube.com/watch?v=7YBwnc9D2d4&t=184s). Yonglong Tian. MIT CSAIL. 

@@ -2,7 +2,7 @@
 
 > An incomplete list of self-supervised papers related to medical imaging. 
 
-#### 2021
+### 2021 
 - [ ] [SMORE: A Self-Supervised Anti-Aliasing and Super-Resolution Algorithm for MRI Using Deep Learning](https://ieeexplore.ieee.org/document/9253710). TMI.
 - [ ] [Interpretability-Driven Sample Selection Using Self Supervised Learning For Disease Classification And Segmentation](https://ieeexplore.ieee.org/document/9361645). TMI. 
 - [ ] [Transferable Visual Words: Exploiting the Semantics of Anatomical Patterns for Self-supervised Learning](https://ieeexplore.ieee.org/document/9359803). TMI.
@@ -13,10 +13,9 @@
 - [ ] [Big Self-Supervised Models Advance Medical Image Classification](https://arxiv.org/abs/2101.05224). arXiv. 
 
 ---
-#### 2020
+### 2020
 *Feature Learning*
 - [ ] [Self-Supervised Contrastive Video-Speech Representation Learning for Ultrasound](https://arxiv.org/abs/2008.06607). MICCAI 2020.
-- [ ] [Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik’s Cube](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_46). MICCAI 2020. 
 - [ ] [Rubik’s Cube+: A self-supervised feature learning framework for 3D medical image analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301109). Medical Image Analysis. 
 - [ ] [Self-Supervised Feature Learning via Exploiting Multi-Modal Data for Retinal Disease Diagnosis](https://arxiv.org/abs/2007.11067). TMI. 
 - [ ] [Self-Supervised Pretraining with DICOM metadata in Ultrasound Imaging](http://proceedings.mlr.press/v126/hu20a.html). Machine Learning for Healthcare Conference 2020. 
@@ -31,12 +30,12 @@
 - [ ] [Contrastive Rendering for Ultrasound Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_54). MICCAI 2020. 
 - [ ] [Region-of-Interest Guided Supervoxel Inpainting for Self-supervision](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_49). MICCAI 2020.
 - [ ] [Self-supervised Depth Estimation to Regularise Semantic Segmentation in Knee Arthroscopy](). MICCAI 2020. 
-- [ ] [Contrastive learning of global and local features for medical image segmentation with limited annotations](https://arxiv.org/abs/2006.10511). NeurIPS 2020.  
+- [ ] [Contrastive learning of global and local features for medical image segmentation with limited annotations](https://arxiv.org/abs/2006.10511). NeurIPS 2020. [[Code](https://github.com/krishnabits001/domain_specific_cl)]
 - [ ] [AF-SEG: An Annotation-Free Approach for Image Segmentation by Self-Supervision and Generative Adversarial Network](). ISBI 2020. 
 - [ ] [Leveraging Self-supervised Denoising for Image Segmentation](https://ieeexplore.ieee.org/document/9098559). ISBI 2020. 
 
 *Denoising, Super Resolution*
-- [ ] [Patch2Self: Denoising Diffusion MRI with Self-Supervised Learning​](https://arxiv.org/abs/2011.01355). NeurIPS 2020. 
+- [ ] [Patch2Self: Denoising Diffusion MRI with Self-Supervised Learning​](https://arxiv.org/abs/2011.01355). NeurIPS 2020. [[Code](https://github.com/ShreyasFadnavis/patch2self)]
 
 *Domain Adaptation*
 - [ ] [Dual-Task Self-supervision for Cross-modality Domain Adaptation](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_40). MICCAI 2020. 
@@ -46,9 +45,9 @@
 - [ ] [Self-supervised Discovery of Anatomical Shape Landmarks](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_61). MICCAI 2020.
 
 *Image Synthesis*
-- [ ] [Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis](https://ieeexplore.ieee.org/document/9174648). TMI. 
+- [ ] [Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis](https://ieeexplore.ieee.org/document/9174648). TMI. [[Code](https://bitbucket.org/JianboJiao/ssus2mri/src/master/)] 
 ----
-#### 2019
+### 2019
 *Feature Learning*
 - [ ] [How to Learn from Unlabeled Volume Data: Self-supervised 3D Context Feature Learning](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_72). MICCAI 2019.
 - [ ] [Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik’s Cube](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_46). MICCAI 2019. 
@@ -60,9 +59,9 @@
 *Others*
 - [ ] [From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI](https://arxiv.org/abs/1907.02431). NeurIPS 2019. 
 ----
-#### 2018
+### 2018
 - [ ] [Improving Cytoarchitectonic Segmentation of Human Brain Areas with Self-supervised Siamese Networks](https://link.springer.com/chapter/10.1007/978-3-030-00931-1_76). MICCAI 2018. 
 ----
-#### 2017
+### 2017
 - [ ] [Self supervised deep representation learning for fine-grained body part recognition](https://ieeexplore.ieee.org/document/7950587). ISBI 2017. 
 

@@ -2,6 +2,7 @@
 
 > An incomplete list of self-supervised papers related to medical imaging. 
 
+
 ### 2021 
 - [ ] [SMORE: A Self-Supervised Anti-Aliasing and Super-Resolution Algorithm for MRI Using Deep Learning](https://ieeexplore.ieee.org/document/9253710). TMI.
 - [ ] [Interpretability-Driven Sample Selection Using Self Supervised Learning For Disease Classification And Segmentation](https://ieeexplore.ieee.org/document/9361645). TMI. 
@@ -12,7 +13,6 @@
 - [ ] [MoCo-CXR: MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models](https://arxiv.org/pdf/2010.05352.pdf). arXiv. 
 - [ ] [Big Self-Supervised Models Advance Medical Image Classification](https://arxiv.org/abs/2101.05224). arXiv. 
 
----
 ### 2020
 *Feature Learning*
 - [ ] [Self-Supervised Contrastive Video-Speech Representation Learning for Ultrasound](https://arxiv.org/abs/2008.06607). MICCAI 2020.
@@ -46,7 +46,7 @@
 
 *Image Synthesis*
 - [ ] [Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis](https://ieeexplore.ieee.org/document/9174648). TMI. [[Code](https://bitbucket.org/JianboJiao/ssus2mri/src/master/)] 
-----
+
 ### 2019
 *Feature Learning*
 - [ ] [How to Learn from Unlabeled Volume Data: Self-supervised 3D Context Feature Learning](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_72). MICCAI 2019.
@@ -58,10 +58,10 @@
 
 *Others*
 - [ ] [From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI](https://arxiv.org/abs/1907.02431). NeurIPS 2019. 
-----
+
 ### 2018
 - [ ] [Improving Cytoarchitectonic Segmentation of Human Brain Areas with Self-supervised Siamese Networks](https://link.springer.com/chapter/10.1007/978-3-030-00931-1_76). MICCAI 2018. 
-----
+
 ### 2017
 - [ ] [Self supervised deep representation learning for fine-grained body part recognition](https://ieeexplore.ieee.org/document/7950587). ISBI 2017. 
 

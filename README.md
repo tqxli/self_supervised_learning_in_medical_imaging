@@ -1,6 +1,6 @@
 # Self-Supervised Learning in Medical Imaging
 
-> An incomplete list of self-supervised papers related to medical imaging. 
+> An incomplete list of self-supervised papers related to medical imaging, with a focus on analysis. 
 
 
 ### 2021 

@@ -10,7 +10,7 @@
 - [ ] [A novel multiple instance learning framework for COVID-19 severity assessment via data augmentation and self-supervised learning](https://www.sciencedirect.com/science/article/pii/S1361841521000244). Medical Image Analysis. 
 - [ ] [Modality alignment contrastive learning for severity assessment of COVID-19 from lung ultrasound and clinical information](https://pubmed.ncbi.nlm.nih.gov/33550007/). Medical Image Analysis.  
 - [ ] [MoCo-CXR: MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models](https://arxiv.org/pdf/2010.05352.pdf). arXiv. 
-- [ ] [Big Self-Supervised Models Advance Medical Image Classification](https://arxiv.org/abs/2101.05224). arXiv. 
+- [ ] [Big Self-Supervised Models Advance Medical Image Classification](https://arxiv.org/abs/2101.05224). arXiv.
 
 ## 2020
 *Feature Learning*
@@ -83,5 +83,5 @@
 - [ ] [Self-Supervised Section from LeCun's Deep Learning Course at NYU](https://atcold.github.io/pytorch-Deep-Learning/en/week10/10-1/). 2020. 
 
 ## Videos
-- [LeCun - Self-Supervised Learning](https://www.youtube.com/watch?v=SaJL4SLfrcY)
-- [Contrastive Learning: A General Self-supervised Learning Approach](https://www.youtube.com/watch?v=7YBwnc9D2d4&t=184s). Yonglong Tian. MIT CSAIL. 
+- [ ][LeCun - Self-Supervised Learning](https://www.youtube.com/watch?v=SaJL4SLfrcY)
+- [ ][Contrastive Learning: A General Self-supervised Learning Approach](https://www.youtube.com/watch?v=7YBwnc9D2d4&t=184s). Yonglong Tian. MIT CSAIL. 

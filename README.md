@@ -83,5 +83,5 @@
 - [ ] [Self-Supervised Section from LeCun's Deep Learning Course at NYU](https://atcold.github.io/pytorch-Deep-Learning/en/week10/10-1/). 2020. 
 
 ## Videos
-- [ ][LeCun - Self-Supervised Learning](https://www.youtube.com/watch?v=SaJL4SLfrcY)
-- [ ][Contrastive Learning: A General Self-supervised Learning Approach](https://www.youtube.com/watch?v=7YBwnc9D2d4&t=184s). Yonglong Tian. MIT CSAIL. 
+- [ ] [LeCun - Self-Supervised Learning](https://www.youtube.com/watch?v=SaJL4SLfrcY)
+- [ ] [Contrastive Learning: A General Self-supervised Learning Approach](https://www.youtube.com/watch?v=7YBwnc9D2d4&t=184s). Yonglong Tian. MIT CSAIL. 

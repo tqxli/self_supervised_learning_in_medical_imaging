@@ -9,20 +9,22 @@
 - [ ] [Self-Path: Self-supervision for Classification of Pathology Images with Limited Annotations](https://ieeexplore.ieee.org/document/9343323). TMI. 
 - [ ] [A novel multiple instance learning framework for COVID-19 severity assessment via data augmentation and self-supervised learning](https://www.sciencedirect.com/science/article/pii/S1361841521000244). Medical Image Analysis. 
 - [ ] [Modality alignment contrastive learning for severity assessment of COVID-19 from lung ultrasound and clinical information](https://pubmed.ncbi.nlm.nih.gov/33550007/). Medical Image Analysis.  
+- [ ] [Context Matters: Graph-based Self-supervised Representation Learning for Medical Images](https://arxiv.org/abs/2012.06457). (Accepted by) AAAI 2021. [[Code](https://github.com/batmanlab/Context_Aware_SSL)]
 - [ ] [MoCo-CXR: MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models](https://arxiv.org/pdf/2010.05352.pdf). arXiv. 
 - [ ] [Big Self-Supervised Models Advance Medical Image Classification](https://arxiv.org/abs/2101.05224). arXiv.
 
 ## 2020
-*Feature Learning*
+*Representation Learning*
 - [ ] [Self-Supervised Contrastive Video-Speech Representation Learning for Ultrasound](https://arxiv.org/abs/2008.06607). MICCAI 2020.
 - [ ] [Rubik’s Cube+: A self-supervised feature learning framework for 3D medical image analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301109). Medical Image Analysis. 
 - [ ] [Self-Supervised Feature Learning via Exploiting Multi-Modal Data for Retinal Disease Diagnosis](https://arxiv.org/abs/2007.11067). TMI. 
+- [ ] :star: [3D Self-Supervised Methods for Medical Imaging](https://arxiv.org/abs/2006.03829). NeurIPS 2020. [[Code](https://github.com/HealthML/self-supervised-3d-tasks)]
 - [ ] [Self-Supervised Pretraining with DICOM metadata in Ultrasound Imaging](http://proceedings.mlr.press/v126/hu20a.html). Machine Learning for Healthcare Conference 2020. 
 - [ ] [AF-SEG: An Annotation-Free Approach for Image Segmentation by Self-Supervision and Generative Adversarial Network](https://ieeexplore.ieee.org/abstract/document/9098535). ISBI 2020. 
 - [ ] [A Multi-Task Self-Supervised Learning Framework for Scopy Images](https://ieeexplore.ieee.org/document/9098527). ISBI 2020. 
 - [ ] [Self-Supervised Representation Learning for Ultrasound Video](https://arxiv.org/abs/2003.00105). ISBI 2020.
 - [ ] [Self-Supervision vs. Transfer Learning: Robust Biomedical Image Analysis Against Adversarial Attacks](https://ieeexplore.ieee.org/document/9098369). ISBI 2020.
-- [ ] :star: [3D Self-Supervised Methods for Medical Imaging](https://arxiv.org/abs/2006.03829). NeurIPS 2020. [[Code](https://github.com/HealthML/self-supervised-3d-tasks)]
+
 
 *Detection*
 - [ ] [SALAD: Self-supervised Aggregation Learning for Anomaly Detection on X-Rays](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_46). MICCAI 2020. 
@@ -33,6 +35,7 @@
 - [ ] [Region-of-Interest Guided Supervoxel Inpainting for Self-supervision](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_49). MICCAI 2020.
 - [ ] [Self-supervised Depth Estimation to Regularise Semantic Segmentation in Knee Arthroscopy](). MICCAI 2020. 
 - [ ] :star: [Contrastive learning of global and local features for medical image segmentation with limited annotations](https://arxiv.org/abs/2006.10511). NeurIPS 2020. [[Code](https://github.com/krishnabits001/domain_specific_cl)]
+- [ ] [Self-Supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation](https://arxiv.org/abs/2007.09886v2). ECCV 2020. [[Code](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)]
 - [ ] [AF-SEG: An Annotation-Free Approach for Image Segmentation by Self-Supervision and Generative Adversarial Network](). ISBI 2020. 
 - [ ] [Leveraging Self-supervised Denoising for Image Segmentation](https://ieeexplore.ieee.org/document/9098559). ISBI 2020. 
 
@@ -50,8 +53,8 @@
 - [ ] [Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis](https://ieeexplore.ieee.org/document/9174648). TMI. [[Code](https://bitbucket.org/JianboJiao/ssus2mri/src/master/)] 
 
 ## 2019
-*Feature Learning*
-- [ ] [How to Learn from Unlabeled Volume Data: Self-supervised 3D Context Feature Learning](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_72). MICCAI 2019.
+*Representation Learning*
+- [ ] [How to Learn from Unlabeled Volume Data: Self-supervised 3D Context Feature Learning](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_72). MICCAI 2019. [[Code](https://github.com/multimodallearning/miccai19_self_supervision)]
 - [ ] [Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik’s Cube](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_46). MICCAI 2019. 
 - [ ] [Self-supervised learning for medical image analysis using image context restoration](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304699). Medical Image Analysis.  
 - [ ] [Multimodal self-supervised learning for medical image analysis](https://arxiv.org/abs/1912.05396). NeurIPS 2019 Workshops.

@@ -92,7 +92,6 @@
 
 ## Blogs
 - [ ] :star: [Self-Supervised Representation Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html). Lil'Log. 2019. 
-
 - [ ] [Contrastive Self-Supervised Learning](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html). Ankesh Anand. 2020. 
 - [ ] [Self-Supervised Section from LeCun's Deep Learning Course at NYU](https://atcold.github.io/pytorch-Deep-Learning/en/week10/10-1/). 2020. 
 

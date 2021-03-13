@@ -18,18 +18,21 @@
 - [ ] [Rubik’s Cube+: A self-supervised feature learning framework for 3D medical image analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301109). Medical Image Analysis. 
 - [ ] [Self-Supervised Feature Learning via Exploiting Multi-Modal Data for Retinal Disease Diagnosis](https://arxiv.org/abs/2007.11067). TMI. 
 - [ ] [Self-Supervised Pretraining with DICOM metadata in Ultrasound Imaging](http://proceedings.mlr.press/v126/hu20a.html). Machine Learning for Healthcare Conference 2020. 
+- [ ] [AF-SEG: An Annotation-Free Approach for Image Segmentation by Self-Supervision and Generative Adversarial Network](https://ieeexplore.ieee.org/abstract/document/9098535). ISBI 2020. 
+- [ ] [A Multi-Task Self-Supervised Learning Framework for Scopy Images](https://ieeexplore.ieee.org/document/9098527). ISBI 2020. 
 - [ ] [Self-Supervised Representation Learning for Ultrasound Video](https://arxiv.org/abs/2003.00105). ISBI 2020.
 - [ ] [Self-Supervision vs. Transfer Learning: Robust Biomedical Image Analysis Against Adversarial Attacks](https://ieeexplore.ieee.org/document/9098369). ISBI 2020.
+- [ ] :star: [3D Self-Supervised Methods for Medical Imaging](https://arxiv.org/abs/2006.03829). NeurIPS 2020. [[Code](https://github.com/HealthML/self-supervised-3d-tasks)]
 
 *Detection*
 - [ ] [SALAD: Self-supervised Aggregation Learning for Anomaly Detection on X-Rays](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_46). MICCAI 2020. 
 
 *Segmentation*
-- [ ] [Revisiting Rubik’s Cube: Self-supervised Learning with Volume-Wise Transformation for 3D Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_24). MICCAI 2020. 
+- [ ] :star: [Revisiting Rubik’s Cube: Self-supervised Learning with Volume-Wise Transformation for 3D Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_24). MICCAI 2020. 
 - [ ] [Contrastive Rendering for Ultrasound Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_54). MICCAI 2020. 
 - [ ] [Region-of-Interest Guided Supervoxel Inpainting for Self-supervision](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_49). MICCAI 2020.
 - [ ] [Self-supervised Depth Estimation to Regularise Semantic Segmentation in Knee Arthroscopy](). MICCAI 2020. 
-- [ ] [Contrastive learning of global and local features for medical image segmentation with limited annotations](https://arxiv.org/abs/2006.10511). NeurIPS 2020. [[Code](https://github.com/krishnabits001/domain_specific_cl)]
+- [ ] :star: [Contrastive learning of global and local features for medical image segmentation with limited annotations](https://arxiv.org/abs/2006.10511). NeurIPS 2020. [[Code](https://github.com/krishnabits001/domain_specific_cl)]
 - [ ] [AF-SEG: An Annotation-Free Approach for Image Segmentation by Self-Supervision and Generative Adversarial Network](). ISBI 2020. 
 - [ ] [Leveraging Self-supervised Denoising for Image Segmentation](https://ieeexplore.ieee.org/document/9098559). ISBI 2020. 
 
@@ -78,6 +81,7 @@
 - [ ] [Self-supervised Learning: Generative or Contrastive](https://arxiv.org/abs/2006.08218). 2020.
 - [ ] [A Survey on Contrastive Self-supervised Learning](https://arxiv.org/abs/2011.00362). 2020. 
 - [ ] [A Survey on Semi-, Self- and Unsupervised Learning in Image Classiﬁcation](https://arxiv.org/abs/2002.08721). 2020. 
+- [ ] [Contrastive Representation Learning: A Framework and Review](https://arxiv.org/abs/2010.05113). 2020. 
 
 ## Paper Lists on GitHub
 - [ ] [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)

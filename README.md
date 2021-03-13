@@ -51,6 +51,8 @@
 - [ ] [How to Learn from Unlabeled Volume Data: Self-supervised 3D Context Feature Learning](https://link.springer.com/chapter/10.1007/978-3-030-32226-7_72). MICCAI 2019.
 - [ ] [Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik’s Cube](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_46). MICCAI 2019. 
 - [ ] [Self-supervised learning for medical image analysis using image context restoration](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304699). Medical Image Analysis.  
+- [ ] [Multimodal self-supervised learning for medical image analysis](https://arxiv.org/abs/1912.05396). NeurIPS 2019 Workshops.
+- [ ] [Surrogate Supervision for Medical Image Analysis: Effective Deep Learning From Limited Quantities of Labeled Data](https://arxiv.org/abs/1901.08707). ISBI 2019. 
 
 *Segmentation*
 - [ ] [Self-Supervised Learning for Cardiac MR Image Segmentation by Anatomical Position Prediction](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_60). MICCAI 2019. 
@@ -59,10 +61,14 @@
 - [ ] [From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI](https://arxiv.org/abs/1907.02431). NeurIPS 2019. 
 
 ## 2018
+- [ ] [Deep Lesion Graph in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-Scale Lesion Database](https://link.springer.com/chapter/10.1007%2F978-3-030-13969-8_20). CVPR 2018. 
 - [ ] [Improving Cytoarchitectonic Segmentation of Human Brain Areas with Self-supervised Siamese Networks](https://link.springer.com/chapter/10.1007/978-3-030-00931-1_76). MICCAI 2018. 
+
+- [ ] [Exploiting the potential of unlabeled endoscopic video data with self-supervised learning](https://arxiv.org/abs/1711.09726). 
 
 ## 2017
 - [ ] [Self supervised deep representation learning for fine-grained body part recognition](https://ieeexplore.ieee.org/document/7950587). ISBI 2017. 
+- [ ] [Self-Supervised Learning for Spinal MRIs](https://arxiv.org/abs/1708.00367). 	3rd Workshop on Deep Learning in Medical Image Analysis. 
 
 ----
 > Resources on self-supervised learning in general.

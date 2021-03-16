@@ -24,7 +24,7 @@
 - [ ] [A Multi-Task Self-Supervised Learning Framework for Scopy Images](https://ieeexplore.ieee.org/document/9098527). ISBI 2020. 
 - [ ] [Self-Supervised Representation Learning for Ultrasound Video](https://arxiv.org/abs/2003.00105). ISBI 2020.
 - [ ] [Self-Supervision vs. Transfer Learning: Robust Biomedical Image Analysis Against Adversarial Attacks](https://ieeexplore.ieee.org/document/9098369). ISBI 2020.
-
+- [ ] [Self-Supervised, Semi-Supervised, Multi-Context Learning for the Combined Classification and Segmentation of Medical Images (Student Abstract)](https://ojs.aaai.org/index.php/AAAI/article/view/7179). AAAI 2020. 
 
 *Detection*
 - [ ] [SALAD: Self-supervised Aggregation Learning for Anomaly Detection on X-Rays](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_46). MICCAI 2020. 
@@ -38,6 +38,7 @@
 - [ ] [Self-Supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation](https://arxiv.org/abs/2007.09886v2). ECCV 2020. [[Code](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation)]
 - [ ] [AF-SEG: An Annotation-Free Approach for Image Segmentation by Self-Supervision and Generative Adversarial Network](). ISBI 2020. 
 - [ ] [Leveraging Self-supervised Denoising for Image Segmentation](https://ieeexplore.ieee.org/document/9098559). ISBI 2020. 
+- [ ] [PGL: Prior-Guided Local Self-supervised Learning for 3D Medical Image Segmentation](https://arxiv.org/abs/2011.12640). arXiv. [[Code](https://github.com/YtongXie/PGL)]
 
 *Denoising, Super Resolution*
 - [ ] [Patch2Self: Denoising Diffusion MRI with Self-Supervised Learning​](https://arxiv.org/abs/2011.01355). NeurIPS 2020. [[Code](https://github.com/ShreyasFadnavis/patch2self)]
@@ -50,7 +51,8 @@
 - [ ] [Self-supervised Discovery of Anatomical Shape Landmarks](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_61). MICCAI 2020.
 
 *Image Synthesis*
-- [ ] [Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis](https://ieeexplore.ieee.org/document/9174648). TMI. [[Code](https://bitbucket.org/JianboJiao/ssus2mri/src/master/)] 
+- [ ] [Self-Supervised Ultrasound to MRI Fetal Brain Image Synthesis](https://ieeexplore.ieee.org/document/9174648). TMI. [[Code](https://bitbucket.org/JianboJiao/ssus2mri/src/master/)]
+- [ ] [Auto-GAN: Self-Supervised Collaborative Learning for Medical Image Synthesis](https://ojs.aaai.org/index.php/AAAI/article/view/6619). AAAI 2020.  
 
 ## 2019
 *Representation Learning*
@@ -69,7 +71,6 @@
 ## 2018
 - [ ] [Deep Lesion Graph in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-Scale Lesion Database](https://link.springer.com/chapter/10.1007%2F978-3-030-13969-8_20). CVPR 2018. 
 - [ ] [Improving Cytoarchitectonic Segmentation of Human Brain Areas with Self-supervised Siamese Networks](https://link.springer.com/chapter/10.1007/978-3-030-00931-1_76). MICCAI 2018. 
-
 - [ ] [Exploiting the potential of unlabeled endoscopic video data with self-supervised learning](https://arxiv.org/abs/1711.09726). 
 
 ## 2017
